@@ -18,7 +18,7 @@ steps:
   - redis-cli -h redis get BAR
 
 services:
-- name: redis
+- name: redisxxx
   image: redis
 
 ...
