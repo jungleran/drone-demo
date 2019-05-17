@@ -20,5 +20,3 @@ steps:
 services:
 - name: redisxxx
   image: redis
-
-...
