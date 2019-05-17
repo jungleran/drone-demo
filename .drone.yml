@@ -16,7 +16,7 @@ steps:
   - redis-cli -h redis get FOO
 
 services:
-- name: redis
+- name: redisx
   image: redis
 
 ...
